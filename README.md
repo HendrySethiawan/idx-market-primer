@@ -117,9 +117,12 @@ To contribute:
 5. Open a pull request
 
 ## 📧 Contact
+For business inquiries, technical support, or partnership opportunities, please contact me at:
 
 For business inquiries, technical support, or partnership opportunities, please contact me at:
-**[h.sethiawan@gmail.com]**
+
+- **Email**: h.sethiawan@gmail.com
+- **Website**: [hrsethiawan.com](https://www.hrsethiawan.com/)
 
 ## 📄 License
 
