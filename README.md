@@ -1,7 +1,7 @@
 # IDX Market Primer - Production Implementation
 
 ![Python](https://img.shields.io/badge/Python-3.13.7-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-red.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Production](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
 
 A **production-ready implementation** of the IDX Market Primer framework for analyzing Indonesia's stock market with focus on electrical engineering and quantitative finance integration.
